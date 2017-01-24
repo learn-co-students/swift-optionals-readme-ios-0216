@@ -14,6 +14,13 @@ In this lesson we'll introduce a new data type, optionals.
 * Use an if statement to find out whether an `Optional` contains a value by comparing the `Optional` against `nil`.
 * Use *optional binding* to find out whether an optional contains a value, and if so, to make that value available as a temporary constant.
 
+## Video
+
+[![](http://img.youtube.com/vi/o3VGJzaLPmo/0.jpg)](http://www.youtube.com/watch?v=o3VGJzaLPmo "Optionals")
+
+Note that this video covers optionals and goes into how optionals work with the Dictionary type (which you haven't learned about yet) by the end of this video. You can make an attempt to watch it all the way through or you can come back to the second half of this video after you learn about the Dictionary type in the next section.
+
+
 ## Optional Values
 
 Pets are great, aren't they? Isn't it nice to come home and a puppy that jumps up at you, excited to see you again after a long, hard day? Or a cat that climbs on your lap and walks all over your keyboard when you're trying to study Swift programming? Isn't it great that everyone has a furry (or scaly, or feathery) friend to keep them company?
