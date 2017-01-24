@@ -16,3 +16,9 @@ if let friendsPet = petName {
     print("My friend's pet is \(friendsPet)")
     print("petName is still an Optional! \(petName)")
 }
+
+var houseName: String?
+
+if let houseTitle = houseName {
+    print("house name is \(houseTitle)")
+}
